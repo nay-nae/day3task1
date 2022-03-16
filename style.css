@@ -1,0 +1,54 @@
+.nav-link:hover {
+    background-color: blue !important;
+    color: white !important;
+}
+
+nav ul {
+    width: 100% !important;
+    text-align: center !important;
+}
+
+nav ul li {
+    width: 50% !important;
+    text-align: center !important;
+    font-size: 20px !important;
+}
+
+h1 {
+    color: blue !important;
+}
+
+#header {
+    padding: 20px !important;
+}
+
+img {
+    width: 100% !important;
+    margin: auto !important;
+}
+
+#cardHead {
+    text-align: center !important;
+}
+
+#cardPara {
+    text-align: center !important;
+}
+
+.card-title {
+    text-align: center !important;
+}
+
+.card-text {
+    text-align: center !important;
+}
+
+#recBtn {
+    width: 100% !important;
+    margin: auto !important;
+}
+
+footer {
+    text-align: center !important;
+    font-size: 12px !important;
+}

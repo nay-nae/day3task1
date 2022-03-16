@@ -1,0 +1,37 @@
+#header {
+    padding: 20px !important;
+}
+
+h1 {
+    color: blue !important;
+}
+
+h2 {
+    text-align: center !important;
+}
+
+p {
+    text-align: center !important;
+}
+
+th {
+    text-align: center !important;
+}
+
+td {
+    text-align: center !important;
+}
+
+td a {
+    color: white;
+}
+
+td:hover {
+    background-color: white;
+    color: black;
+}
+
+td a:hover {
+    background-color: white;
+    color: black;
+}

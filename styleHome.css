@@ -1,6 +1,6 @@
 .nav-link:hover {
-    background-color: blue !important;
-    color: white !important;
+    background-color: WHITE !important;
+    color: BLACK !important;
 }
 
 nav ul {
@@ -19,22 +19,31 @@ nav ul li a {
 }
 
 h1 {
-    color: blue !important;
+    color: black !important;
     font-size: 100px;
 }
 
 #header {
     padding: 20px !important;
     font-family: 'Italianno', cursive;
+    background-color: #f7d786 !important;
 }
 
 body {
     font-family: 'Italiana', serif;
     font-size: 25px;
     font-weight: bold;
+    background-color: #f7d786;
 }
 
 h2 {
+    text-align: center !important;
+    font-family: 'Italiana', serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+h4 {
     text-align: center !important;
     font-family: 'Italiana', serif;
     font-size: 35px;

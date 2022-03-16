@@ -1,10 +1,10 @@
 #header {
     padding: 20px !important;
     font-family: 'Italianno', cursive;
+    background-color: #f7d786 !important;
 }
 
 h1 {
-    color: blue !important;
     font-size: 100px;
 }
 
@@ -12,6 +12,7 @@ body {
     font-family: 'Italiana', serif;
     font-size: 25px;
     font-weight: bold;
+    background-color: #f7d786;
 }
 
 h2 {

@@ -1,13 +1,24 @@
 #header {
     padding: 20px !important;
+    font-family: 'Italianno', cursive;
 }
 
 h1 {
     color: blue !important;
+    font-size: 100px;
+}
+
+body {
+    font-family: 'Italiana', serif;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 h2 {
     text-align: center !important;
+    font-family: 'Italiana', serif;
+    font-size: 35px;
+    font-weight: bold;
 }
 
 p {
@@ -27,11 +38,25 @@ td a {
 }
 
 td:hover {
-    background-color: white;
     color: black;
 }
 
 td a:hover {
+    background-color: white;
+    color: black;
+}
+
+.buttonHome {
+    width: 20% !important;
+    margin-left: 500px !important;
+    border-radius: 25px;
+}
+
+button a {
+    color: black;
+}
+
+.buttonHome:hover {
     background-color: white;
     color: black;
 }

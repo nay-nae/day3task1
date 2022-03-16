@@ -14,12 +14,31 @@ nav ul li {
     font-size: 20px !important;
 }
 
+nav ul li a {
+    color: red !important;
+}
+
 h1 {
     color: blue !important;
+    font-size: 100px;
 }
 
 #header {
     padding: 20px !important;
+    font-family: 'Italianno', cursive;
+}
+
+body {
+    font-family: 'Italiana', serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center !important;
+    font-family: 'Italiana', serif;
+    font-size: 35px;
+    font-weight: bold;
 }
 
 img {
